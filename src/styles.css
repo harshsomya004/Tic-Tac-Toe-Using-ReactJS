@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: aliceblue;
+}
+.game {
+  display: flex;
+  flex-direction: row;
+  color: brown;
+  text-align: center;
+  margin-top: 14%;
+  margin-left: 45%;
+}
+.game-info {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.board {
+  align-items: center;
+  margin-top: 50%;
+}
